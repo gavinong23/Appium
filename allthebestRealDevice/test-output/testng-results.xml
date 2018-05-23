@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69544" started-at="2018-05-20T22:08:48Z" finished-at="2018-05-20T22:09:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69544" started-at="2018-05-20T22:08:48Z" finished-at="2018-05-20T22:09:58Z">
+      <class name="Tests.CreateRecipePageTest">
+        <test-method status="PASS" signature="setupAppium()[pri:0, instance:Tests.CreateRecipePageTest@490ab905]" name="setupAppium" is-config="true" duration-ms="18566" started-at="2018-05-21T06:08:30Z" finished-at="2018-05-21T06:08:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAppium -->
+        <test-method status="PASS" signature="setUpPage()[pri:0, instance:Tests.CreateRecipePageTest@490ab905]" name="setUpPage" is-config="true" duration-ms="137" started-at="2018-05-21T06:08:48Z" finished-at="2018-05-21T06:08:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method status="PASS" signature="createRecipeSuccess()[pri:0, instance:Tests.CreateRecipePageTest@490ab905]" name="createRecipeSuccess" duration-ms="69395" started-at="2018-05-21T06:08:49Z" finished-at="2018-05-21T06:09:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRecipeSuccess -->
+        <test-method status="PASS" signature="tearDownAppium()[pri:0, instance:Tests.CreateRecipePageTest@490ab905]" name="tearDownAppium" is-config="true" duration-ms="331" started-at="2018-05-21T06:09:58Z" finished-at="2018-05-21T06:09:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAppium -->
+      </class> <!-- Tests.CreateRecipePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
